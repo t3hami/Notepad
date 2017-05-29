@@ -1,0 +1,21 @@
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\bin\Debug\Notepad.exe
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.Form1.resources
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.Form1.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.Form2.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.Form3.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.AboutDeveloper.resources
